@@ -1,6 +1,6 @@
 const express = require('express')
 const tc = require('telegraf')
-const token = '968970161:AAFbQbjxL6TCLCXQtVbSBrOjr3NlwpWb7cE'
+// const token = Token for Bot
 const mysql = require('mysql')
 const app = express()
 const bot = new tc(token)
